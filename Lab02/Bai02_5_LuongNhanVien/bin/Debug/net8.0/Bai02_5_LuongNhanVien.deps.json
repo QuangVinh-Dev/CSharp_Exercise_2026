@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Bai02_5_LuongNhanVien/1.0.0": {
+        "runtime": {
+          "Bai02_5_LuongNhanVien.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Bai02_5_LuongNhanVien/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
